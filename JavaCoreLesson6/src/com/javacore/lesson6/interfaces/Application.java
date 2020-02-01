@@ -7,6 +7,5 @@ public class Application {
 		
 		System.out.println("Employer with hourly rate has: " + hr.salary(160, 20) + "§/month");
 		System.out.println("Employer with montly rate has: " + hr.salary(1, 2000) + "§/month");
-
 	}
 }

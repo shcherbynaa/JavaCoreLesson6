@@ -6,5 +6,4 @@ import com.javacore.lesson6.interfaces2.Multiply;
 import com.javacore.lesson6.interfaces2.Plus;
 
 public interface Numerable extends Plus, Minus, Multiply, Devide{
-
 }
